@@ -33,4 +33,5 @@ Since this is a custom-built `.exe` converted from Python code, Windows SmartScr
 
 ---
 
-> Made With ❤️&☕
+> Made With ❤️&☕ By Azk 💗
+
